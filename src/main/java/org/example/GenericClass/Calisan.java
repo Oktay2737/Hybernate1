@@ -4,7 +4,7 @@ public class Calisan<T extends Personel>{
 
     T calisan;
 
-    int m1;
+    int Master;
 
     public Calisan(T calisan) {
         this.calisan = calisan;
