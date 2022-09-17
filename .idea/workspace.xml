@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="272e0477-81f2-4ac8-9962-4f8a7c94d4a9" name="Changes" comment="m1 clear all">
+    <list default="true" id="272e0477-81f2-4ac8-9962-4f8a7c94d4a9" name="Changes" comment="int master eklendi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GenericClass/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GenericClass/Calisan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="B1" />
+        <entry key="$PROJECT_DIR$" value="B" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663409940308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="m1 clear all">
+      <created>1663410361041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663410361041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commıt 1" />
     <MESSAGE value="m1 clear all" />
-    <option name="LAST_COMMIT_MESSAGE" value="m1 clear all" />
+    <MESSAGE value="int master eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="int master eklendi" />
   </component>
 </project>
