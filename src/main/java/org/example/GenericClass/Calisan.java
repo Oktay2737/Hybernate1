@@ -7,6 +7,7 @@ public class Calisan<T extends Personel>{
     int commit1;
     int commit2;
     int commit3;
+    int b2commit1;
 
     public Calisan(T calisan) {
         this.calisan = calisan;
